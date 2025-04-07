@@ -1,6 +1,6 @@
 # AuDeRe: Automated Strategy Decision and Realization in Robot Planning and Control via LLMs
 
-[![Conference](https://img.shields.io/badge/Arxiv-Paper-success?logo=arxiv&logoColor=red)](https://realm.mit.edu/)
+[![Conference](https://img.shields.io/badge/Arxiv-Paper-success?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2504.03015)
 [![Conference](https://img.shields.io/badge/CDC2025-under%20review-yellow)](https://cdc2025.ieeecss.org/)
 
 [<ins>Reliable Autonomous Systems Lab @ MIT (REALM)</ins>](https://aeroastro.mit.edu/realm/)
